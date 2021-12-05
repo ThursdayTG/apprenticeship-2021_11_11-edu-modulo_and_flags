@@ -1,9 +1,10 @@
 # apprenticeship-2021_11_11-edu-modulo_and_flags
 2021-11-11 CET
+
 This was an easy day, as we learned about using the modulo operator and flags.
 __________
 
-Each of the files here are technically version 2
+Each of the .cpp files here are technically version 2
 
  - file names were suffixed with "alpha", part of my early chronological versioning scheme.
  - fixed the comments at the bottom of both .cpp files in accordance to filename changes;
