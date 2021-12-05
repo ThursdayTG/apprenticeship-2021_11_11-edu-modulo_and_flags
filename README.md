@@ -1,8 +1,7 @@
 # apprenticeship-2021_11_11-edu-modulo_and_flags
 2021-11-11 CET
 This was an easy day, as we learned about using the modulo operator and flags.
-
-
+__________
 
 Each of the files here are technically version 2
 
